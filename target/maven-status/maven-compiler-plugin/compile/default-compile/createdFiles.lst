@@ -1,0 +1,9 @@
+com\emergentes\utiles\ConexionDB.class
+com\emergentes\dao\UsuariosDAOimpl.class
+com\emergentes\dao\PostsDAOimpl.class
+com\emergentes\dao\UsuariosDAO.class
+com\emergentes\modelo\Posts.class
+com\emergentes\modelo\Usuarios.class
+com\emergentes\controlador\Inicio_usuarios.class
+com\emergentes\dao\PostsDAO.class
+com\emergentes\controlador\Inicio_posts.class
